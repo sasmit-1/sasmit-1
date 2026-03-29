@@ -48,11 +48,6 @@ class Sasmit:
         "Cybersecurity",
     ]
 
-    currently  = "Building NeuroMesh + running inference on spare Androids 📱"
-    philosophy = "Offline-first. Privacy-respecting. Resource-efficient."
-    fun_fact   = "My cluster has more RAM than most dev machines — all from old phones."
-```
-
 <br/>
 
 ---
