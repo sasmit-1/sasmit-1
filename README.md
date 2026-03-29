@@ -90,15 +90,7 @@ sasmit@universe:~$ whoami
 `React` `JavaScript` `CSS` `Web App`
 
 </td>
-<td width="50%" valign="top">
 
-### 🗂️ Pandora's Box
-> Productivity web app combining task management and expense tracking in a single, distraction-free interface.
-
-`React` `JavaScript` `HTML` `CSS`
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
