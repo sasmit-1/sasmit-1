@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="./banner.svg" width="100%" alt="Sasmit Mondal" />
-
-</div>
+![Sasmit Mondal](./banner.svg)
 
 <br/>
 
